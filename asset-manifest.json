@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/orderbasket-redux/static/css/main.be1d8495.css",
+    "main.js": "/orderbasket-redux/static/js/main.a18f2d68.js",
+    "index.html": "/orderbasket-redux/index.html",
+    "main.be1d8495.css.map": "/orderbasket-redux/static/css/main.be1d8495.css.map",
+    "main.a18f2d68.js.map": "/orderbasket-redux/static/js/main.a18f2d68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1d8495.css",
+    "static/js/main.a18f2d68.js"
+  ]
+}
